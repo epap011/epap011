@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-🧑‍🎓 I’m currently a computer science student at University of Crete
+🧑‍🎓 I’m currently a computer science student(8th semester) at Computer Science Department of University of Crete
 
 tab > spaces
 
