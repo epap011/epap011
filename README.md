@@ -20,6 +20,11 @@
               <img width="100%" src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_discord-256.png" />
             </a>
           </td>
+          <td align="center" width="105">
+            <a href="@epap011:fedora.im">
+              <img width="100%" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/ofplixsxsfyyriiycw1b" />
+            </a>
+          </td>
         </tr>
         <tr>
           <td align="center" width="105">
@@ -30,6 +35,11 @@
           <td align="center" width="105">
             <a href="https://www.linkedin.com/in/efthymis-p-3757a921b/">
               <img width="100%" src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_twitter-256.png" />
+            </a>
+          </td>
+          <td align="center" width="105">
+            <a href="mailto:papageorgiou.efthymis@protonmail.com">
+              <img width="100%" src="https://cdn2.iconfinder.com/data/icons/basic-flat-icon-set/128/letter-256.png" />
             </a>
           </td>
         </tr>
