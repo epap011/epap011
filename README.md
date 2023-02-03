@@ -2,12 +2,12 @@
 
 🧑‍🎓 I’m currently a student(8th semester) at Computer Science Department of University of Crete
 
-## :mailbox: Connect with me    
+---
 
 <table align="center" >
   <tr>
     <td align="center">
-      <h3>Connect with me</h3>
+      <h3><b>&#128235; Connect with me</b></h3>
       <table>
         <tr>
           <td align="center" width="105">
@@ -46,7 +46,7 @@
       </table>
     </td>
     <td align="center">
-      <h3>Github Stats</h3>
+      <h3><b>&#128202; Github Stats</b></h3>
       <p><a href=""><img src="https://github-readme-stats.vercel.app/api/?username=epap011&amp;count_private=true&amp;theme=tokyonight&amp;showicons=true"       alt="My GitHub Stats"></a></p>
     </td>
   </tr>
