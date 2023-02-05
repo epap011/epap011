@@ -11,29 +11,29 @@
       <table>
         <tr>
           <td align="center" width="105">
-            <a href="https://www.linkedin.com/in/efthymis-p-3757a921b/">
+            <a href="https://www.linkedin.com/in/efthymis-p-3757a921b/" target="_blank">
               <img width="100%" src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-256.png" />
             </a>
           </td>
           <td align="center" width="105">
-            <a href="https://www.linkedin.com/in/efthymis-p-3757a921b/">
+            <a href="https://discord.com/users/sutter_cane#9284" target="_blank">
               <img width="100%" src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_discord-256.png" />
             </a>
           </td>
           <td align="center" width="105">
-            <a href="@epap011:fedora.im">
+            <a href="@epap011:fedora.im" target="_blank">
               <img width="100%" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/ofplixsxsfyyriiycw1b" />
             </a>
           </td>
         </tr>
         <tr>
           <td align="center" width="105">
-            <a href="https://www.linkedin.com/in/efthymis-p-3757a921b/">
+            <a href="" target="_blank">
               <img width="100%" src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_telegram-256.png" />
             </a>
           </td>
           <td align="center" width="105">
-            <a href="https://www.linkedin.com/in/efthymis-p-3757a921b/">
+            <a href="" target="_blank">
               <img width="100%" src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_twitter-256.png" />
             </a>
           </td>
