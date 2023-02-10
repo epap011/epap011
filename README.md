@@ -16,30 +16,30 @@
             </a>
           </td>
           <td align="center" width="105">
-            <a href="https://discord.com/users/sutter_cane#9284" target="_blank">
-              <img width="100%" src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_discord-256.png" />
+            <a href="https://mstdn.social/@epap011" target="_blank">
+              <img width="100%" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/207_Mastodon-256.png" />
             </a>
           </td>
           <td align="center" width="105">
-            <a href="@epap011:fedora.im" target="_blank">
-              <img width="100%" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/ofplixsxsfyyriiycw1b" />
+            <a href="mailto:papageorgiou.efthymis@protonmail.com">
+              <img width="100%" src="https://img.icons8.com/fluency/256/protonmail-2.png" />
             </a>
           </td>
         </tr>
         <tr>
+          <td align="center" width="105">
+            <a href="https://discord.com/users/sutter_cane#9284" target="_blank">
+              <img width="100%" src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_discord-256.png" />
+            </a>
+          </td>
           <td align="center" width="105">
             <a href="" target="_blank">
               <img width="100%" src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_telegram-256.png" />
             </a>
           </td>
           <td align="center" width="105">
-            <a href="" target="_blank">
-              <img width="100%" src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_twitter-256.png" />
-            </a>
-          </td>
-          <td align="center" width="105">
-            <a href="mailto:papageorgiou.efthymis@protonmail.com">
-              <img width="100%" src="https://cdn2.iconfinder.com/data/icons/basic-flat-icon-set/128/letter-256.png" />
+            <a href="@epap011:fedora.im" target="_blank">
+              <img width="100%" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/ofplixsxsfyyriiycw1b" />
             </a>
           </td>
         </tr>
