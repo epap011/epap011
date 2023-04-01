@@ -20,11 +20,6 @@
               <img width="100%" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/207_Mastodon-256.png" />
             </a>
           </td>
-          <td align="center" width="105">
-            <a href="mailto:papageorgiou.efthymis@protonmail.com">
-              <img width="100%" src="https://img.icons8.com/fluency/256/protonmail-2.png" />
-            </a>
-          </td>
         </tr>
         <tr>
           <td align="center" width="105">
@@ -35,11 +30,6 @@
           <td align="center" width="105">
             <a href="" target="_blank">
               <img width="100%" src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_telegram-256.png" />
-            </a>
-          </td>
-          <td align="center" width="105">
-            <a href="@epap011:fedora.im" target="_blank">
-              <img width="100%" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/ofplixsxsfyyriiycw1b" />
             </a>
           </td>
         </tr>
@@ -64,7 +54,6 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 ### :books: Frameworks, Libraries and Platforms
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 
