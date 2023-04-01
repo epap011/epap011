@@ -16,7 +16,7 @@
             </a>
           </td>
           <td align="center" width="105">
-            <a href="https://mstdn.social/@epap011" target="_blank">
+            <a href="https://fosstodon.org/@sutter_cane" target="_blank">
               <img width="100%" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/207_Mastodon-256.png" />
             </a>
           </td>
