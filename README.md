@@ -1,4 +1,4 @@
-# Hi, i'm Efthymis 👋
+# Hi, i'm Efthymis (aka sutter_cane)👋
 
 🧑‍🎓 I’m currently a student(8th semester) at Computer Science Department of University of Crete
 
