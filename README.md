@@ -1,6 +1,6 @@
-# Hi, i'm Efthymis (aka sutter_cane)👋
+# Hi, i'm Efthymis (aka sutter_cane)
 
-🧑‍🎓 I’m currently a student(8th semester) at Computer Science Department of University of Crete
+I’m currently a student(8th semester) at Computer Science Department of University of Crete, as well as an undergraduate fellow researcher at FORTH-ITE (Foundation for Research and Technology-Hellas)
 
 ---
 
