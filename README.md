@@ -37,7 +37,7 @@
     </td>
     <td align="center">
       <h3><b>&#128202; Github Stats</b></h3>
-      <p><a href=""><img src="https://github-readme-stats.vercel.app/api/?username=epap011&amp;count_private=true&amp;theme=tokyonight&amp;showicons=true"       alt="My GitHub Stats"></a></p>
+      <p><a href=""><img src="https://github-readme-stats.vercel.app/api/?username=epap011&amp;count_private=true&amp;theme=gruvbox&amp;showicons=true"       alt="My GitHub Stats"></a></p>
     </td>
   </tr>
 </table>
