@@ -29,7 +29,7 @@ I’m currently a student(8th semester) at Computer Science Department of Univer
           </td>
           <td align="center" width="105">
             <a href="" target="_blank">
-              <img width="100%" src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_telegram-256.png" />
+              <img width="100%" src="https://cdn2.iconfinder.com/data/icons/social-media-2420/512/Signal-256.png" />
             </a>
           </td>
         </tr>
