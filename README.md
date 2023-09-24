@@ -1,6 +1,6 @@
 # Hi, i'm Efthymis (aka sutter_cane)
 
-I’m currently a student(8th semester) at Computer Science Department of University of Crete, as well as an undergraduate fellow researcher at FORTH-ITE (Foundation for Research and Technology-Hellas)
+I’m currently a postgraduate student at Computer Science Department of University of Crete, as well as a research fellow at FORTH-ITE (Foundation for Research and Technology-Hellas)
 
 ---
 
