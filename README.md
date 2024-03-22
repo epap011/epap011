@@ -1,6 +1,6 @@
-# Hi, i'm Efthymis (aka sutter_cane)
+# Hi, I'm Efthimis (aka Makis)
 
-I’m currently a master student at Computer Science Department of University of Crete, as well as a research fellow at FORTH-ITE (Foundation for Research and Technology-Hellas)
+I’m currently a postgraduate student at the Computer Science Department of University of Crete, as well as a postgraduate research fellow at FORTH-ITE (Foundation for Research and Technology-Hellas)
 
 ---
 
