@@ -28,7 +28,7 @@ I’m currently a master student at Computer Science Department of University of
             </a>
           </td>
           <td align="center" width="105">
-            <a href="" target="_blank">
+            <a href="https://signal.me/#eu/S/9F8RQMi/LIv4wVDW2vKvEdKbXBtwjJl+pyRReudkHCdDG7EEREAYejg97ZOy8E" target="_blank">
               <img width="100%" src="https://cdn3.iconfinder.com/data/icons/social-network-flat-3/100/Signal-256.png" />
             </a>
           </td>
