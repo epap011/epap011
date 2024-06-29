@@ -1,6 +1,6 @@
 # Hi, I'm Efthimis (aka Makis)
 
-I’m currently a postgraduate student at the Computer Science Department of University of Crete, as well as a postgraduate research fellow at FORTH-ITE (Foundation for Research and Technology-Hellas)
+Hello! My name is Efthimis Papageorgiou, but you can call me Makis. I'm currently living in Crete, pursuing my master's degree in Computer Science at the University of Crete. At the same time, I am a research fellow at the Information Systems Laboratory (ISL) of the Institute of Computer Science (ICS) at the Foundation for Research and Technology (FORTH), collaborating with great people. No specific plans - just enjoying the moment. Always up for a good chat over coffee :)
 
 ---
 
