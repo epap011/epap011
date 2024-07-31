@@ -1,6 +1,6 @@
 # Hi, I'm Efthimis (aka Makis)
 
-I'm Efthimis Papageorgiou, but you can call me Makis. Always up for a good chat over coffee :)
+Always up & running for a good chat over coffee :)
 
 ---
 
