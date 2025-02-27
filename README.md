@@ -1,8 +1,13 @@
 # Hi, I'm Efthimis (aka Makis)
 
-Always up & running for a good chat over coffee :)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=550&size=14&duration=4000&pause=1000&color=F70202&multiline=true&width=435&height=65&lines=Who+controls+the+past+controls+the+future.+;Who+controls+the+present+controls+the+past.;George+Orwell%2C+1984)](https://git.io/typing-svg)
 
----
+```bash
+echo "Welcome to my GitHub!"
+cat about_me.txt
+I'm a postgraduate student in the Computer Science Department at the University of Crete and a fellowship researcher in the Institute of Computer Science at FORTH-gr.
+These days I am into Autonomic Computing and Control, "teaching" systems to manage themselves so i can sit back and relax (χαλαραά που λένε και στη χώρα μου)…
+```
 
 ## :ferris_wheel: Technologies
 
@@ -32,4 +37,5 @@ Always up & running for a good chat over coffee :)
 ### Others
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat&logo=apachespark&logoColor=black)
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
+
 ---
