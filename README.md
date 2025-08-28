@@ -5,8 +5,8 @@
 ```bash
 echo "Welcome to my GitHub!"
 cat about_me.txt
-I'm a postgraduate student in the Computer Science Department at the University of Crete and a fellowship researcher in the Institute of Computer Science at FORTH-gr.
-These days I am into Autonomic Computing and Control, "teaching" systems to manage themselves so i can sit back and relax (χαλαραά που λένε και στη χώρα μου)…
+I'm a Ph.D student in the Computer Science Department at the University of Crete and a fellowship researcher in the Institute of Computer Science at FORTH-gr.
+These days I am into decision-making approaches for resource management in adaptive computing
 ```
 
 ## :ferris_wheel: Technologies
