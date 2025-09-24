@@ -28,7 +28,7 @@ I'm a Ph.D student in the Computer Science Department at the University of Crete
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white)
-[OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=flat&logo=opentelemetry&logoColor=black)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=flat&logo=opentelemetry&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
