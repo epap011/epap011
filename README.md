@@ -1,12 +1,11 @@
-# Hi, I'm Efthimis (aka Makis)
+# Hi, I'm Efthymis (aka Makis)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=550&size=14&duration=4000&pause=1000&color=F70202&multiline=true&width=435&height=65&lines=Who+controls+the+past+controls+the+future.+;Who+controls+the+present+controls+the+past.;George+Orwell%2C+1984)](https://git.io/typing-svg)
 
 ```bash
 echo "Welcome to my GitHub!"
 cat about_me.txt
-I'm a Ph.D student in the Computer Science Department at the University of Crete and a fellowship researcher in the Institute of Computer Science at FORTH-gr.
-These days I am into decision-making approaches for resource management in adaptive computing
+I'm a Ph.D student in the Computer Science Department at the University of Crete and a researcher in the Institute of Computer Science at FORTH-gr.
 ```
 
 ## :ferris_wheel: Technologies
@@ -29,6 +28,7 @@ These days I am into decision-making approaches for resource management in adapt
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white)
+[OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=flat&logo=opentelemetry&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
