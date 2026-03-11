@@ -1,12 +1,6 @@
 # Hi, I'm Efthymis (aka Makis)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=550&size=14&duration=4000&pause=1000&color=F70202&multiline=true&width=435&height=65&lines=Who+controls+the+past+controls+the+future.+;Who+controls+the+present+controls+the+past.;George+Orwell%2C+1984)](https://git.io/typing-svg)
-
-```bash
-echo "Welcome to my GitHub!"
-cat about_me.txt
-I'm a Ph.D student in the Computer Science Department at the University of Crete and a researcher in the Institute of Computer Science at FORTH-gr.
-```
+I'm a Ph.D. student in Computer Science at the University of Crete and a researcher at FORTH-ICS. These days I'm focused on optimization problems for resource management in computing systems - turns out managing resources is a lot easier when they're not your own time and energy
 
 ## Tools
 
