@@ -2,6 +2,9 @@
 
 I'm a Ph.D. student in Computer Science at the University of Crete and a researcher at FORTH-ICS. These days I'm focused on optimization problems for resource management in computing systems - turns out managing resources is a lot easier when they're not your own time and energy
 
+Research Topics: Resource Management, Autoscalers, Overload Control, Cloud Computing.
+
+
 ## Tools
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
